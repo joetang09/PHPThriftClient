@@ -3,7 +3,7 @@
 namespace thriftlib;
 
 /**
- * @author sergey <sergey@zhangyoubao.com>
+ * @author sergey <joetang91@gmail.com>
  */
 class Domain 
 {
